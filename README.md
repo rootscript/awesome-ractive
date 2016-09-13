@@ -66,8 +66,6 @@ This is a curated list of useful stuff based around Ractive.js.  I found that th
 - [Ractive.js **open** issues on Github](https://github.com/ractivejs/ractive/issues)
 - [Ractive.js **closed** issues on Github](https://github.com/ractivejs/ractive/issues?q=is%3Aissue+is%3Aclosed)
 - [Stack Overflow questions](http://stackoverflow.com/questions/tagged/ractivejs) - Questions tagged ractivejs
-- [`@ractivejs` on Twitter](http://twitter.com/RactiveJS)
-- [**Unofficial** RactiveJS on **Google+**](hhttps://plus.google.com/u/0/communities/112487390071209529772/) - 51 members, only a few posts.  It is useful that the community exists, but would be more useful if there wasn't 33 weeks between posts.
 - What no slack?  Would be useful to have an **official** channel please.
 
 
