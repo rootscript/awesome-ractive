@@ -1,6 +1,6 @@
 # awesome-ractive
 
-[<img src="https://github.com/rootscript/awesome-ractive/images/ractivejs-icon.png" align="right" width="100">](http://www.ractivejs.org/)
+[<img src="https://github.com/rootscript/awesome-ractive/blob/master/images/ractivejs-icon.png" align="right" width="100">](http://www.ractivejs.org/)
 
 > A useful collection of resources for creating apps with [Ractive.js](http://www.ractivejs.org/)
 
