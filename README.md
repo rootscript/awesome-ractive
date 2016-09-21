@@ -93,8 +93,8 @@ This is a curated list of useful stuff based around Ractive.js.  I found that th
 
 ## Tips
 
-- Please Contribute
-
+### Routing (untested tutorials)
+- [ractive-js-tutorial-routing](http://paquitosoftware.com/ractive-js-tutorial-routing/)
 
 ## Apps
 
