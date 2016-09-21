@@ -4,7 +4,7 @@
 
 > A useful collection of resources for creating apps with [Ractive.js](http://www.ractivejs.org/)
 
-This is a curated list of useful stuff based around Ractive.js.  I found that there was very little that I could easily find, so I'm hoping to collect as much as possible here (that is clear & easy to read understand)
+This is a curated list of useful stuff based around Ractive.js.  I found that there was very little that I could easily find, so will collect as much as possible here (that is clear & easy to read & understand)
 
 
 ## Contents
@@ -14,15 +14,16 @@ This is a curated list of useful stuff based around Ractive.js.  I found that th
 - [Documentation](#documentation)
 - [Videos](#videos)
 - [Community](#community)
+- [Online Code Examples](#Codepen-Examples)
 
 ###### Empty sections
 
-- [Books](#books)
-- [Boilerplates](#Ractive-Boilerplates)
-- [Podcasts](#podcasts)
-- [Tips](#tips)
-- [Apps](#apps)
-- [Tools](#tools)
+- [~~Books~~](#books)
+- [~~Boilerplates~~](#Ractive-Boilerplates)
+- [~~Podcasts~~](#podcasts)
+- [~~Tips~~](#tips)
+- [~~Apps~~](#apps)
+- [~~Tools~~](#tools)
 
 
 ## Articles
@@ -36,9 +37,10 @@ This is a curated list of useful stuff based around Ractive.js.  I found that th
 
 ###### With an online live demo
 
-- [Ractive-decorators-sortable](http://ractivejs.github.io/Ractive-decorators-sortable/) - a sortable decorator to Ractive, which enables elements that correspond to array members to be re-ordered using the HTML5 drag and drop API. Doing so will update the order of the array.
-- [ractive-dropdown](http://alexserver.github.io/ractive-dropdown/demo/) - Github repo link is [here](https://github.com/alexserver/ractive-dropdown) - A Dropdown list component for Ractive.js.
-- [ractive-tooltip](http://jondum.github.io/ractive-tooltip/demo/) - Github repo link is [here](https://github.com/JonDum/ractive-tooltip) - A tooltip for active
+- [Ractive-decorators-sortable](http://ractivejs.github.io/Ractive-decorators-sortable/) - a sortable decorator for Ractive, which enables elements that correspond to array members to be re-ordered using the HTML5 drag and drop API. Doing so will update the order of the array.
+- [ractive-dropdown](http://alexserver.github.io/ractive-dropdown/demo/) - Github repo link is [here](https://github.com/alexserver/ractive-dropdown) - dropdown list component for Ractive.js.
+- [ractive-tooltip](http://jondum.github.io/ractive-tooltip/demo/) - Github repo link is [here](https://github.com/JonDum/ractive-tooltip) - tooltip for Ractive
+- [ractive-gauge](http://konsumer.github.io/ractive-gauge/) - Github repo link is [here](https://github.com/konsumer/ractive-gauge) -  simple UV-type meter for Ractive
 - [Bootstrap plugin for Ractive.js](http://dagnelies.github.io/ractive-bootstrap/) - This Ractive plugin provides helper shortcuts for most bootstrap widgets.  The goal of this plugin is to help you get started quickly and reduce the overly verbose code that bootstrap tends to produce. It does not attempt to cover everything in bootstrap, but rather offer the most common elements as shortcuts. Sometimes, when you want something more specific or fancy, you can still use the original bootstrap markup.
 
 
@@ -62,11 +64,16 @@ This is a curated list of useful stuff based around Ractive.js.  I found that th
 
 ## Community
 
-
 - [Ractive.js **open** issues on Github](https://github.com/ractivejs/ractive/issues)
 - [Ractive.js **closed** issues on Github](https://github.com/ractivejs/ractive/issues?q=is%3Aissue+is%3Aclosed)
 - [Stack Overflow questions](http://stackoverflow.com/questions/tagged/ractivejs) - Questions tagged ractivejs
 - What no slack?  Would be useful to have an **official** channel please.
+
+
+##Codepen-Examples
+
+- [Ractive two-way binding form example](http://codepen.io/bessington/pen/OPzLWE)
+- [Ractive progress bar example](http://codepen.io/bessington/pen/azEwpL)
 
 
 ## Books
@@ -120,3 +127,5 @@ Made with Ractive.
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Rootscript](https://github.com/rootscript/) has waived all copyright and related or neighbouring rights to this work.
+
+##TODO - https://github.com/sindresorhus/awesome/blob/master/create-list.md
