@@ -67,7 +67,7 @@ This is a curated list of useful stuff based around Ractive.js.  I found that th
 - [Ractive.js **open** issues on Github](https://github.com/ractivejs/ractive/issues)
 - [Ractive.js **closed** issues on Github](https://github.com/ractivejs/ractive/issues?q=is%3Aissue+is%3Aclosed)
 - [Stack Overflow questions](http://stackoverflow.com/questions/tagged/ractivejs) - Questions tagged ractivejs
-- What no slack?  Would be useful to have an **official** channel please.
+- [Gitter Channel](https://gitter.im/ractivejs/ractive)
 
 
 ##Codepen-Examples
