@@ -43,6 +43,7 @@ This is a curated list of useful stuff based around Ractive.js.  I found that th
 - [ractive-gauge](http://konsumer.github.io/ractive-gauge/) - Github repo link is [here](https://github.com/konsumer/ractive-gauge) -  simple UV-type meter for Ractive
 - [Bootstrap plugin for Ractive.js](http://dagnelies.github.io/ractive-bootstrap/) - This Ractive plugin provides helper shortcuts for most bootstrap widgets.  The goal of this plugin is to help you get started quickly and reduce the overly verbose code that bootstrap tends to produce. It does not attempt to cover everything in bootstrap, but rather offer the most common elements as shortcuts. Sometimes, when you want something more specific or fancy, you can still use the original bootstrap markup.
 
+- [ScadaJS Showcase](https://github.com/aktos-io/scadajs-showcase) - A showcase that demonstrates [several components](https://github.com/aktos-io/scada.js/tree/master/components) and [microservices](https://github.com/aktos-io/scadajs-showcase/blob/master/servers/webserver.ls) available in ScadaJS.
 
 ## Documentation
 
@@ -70,7 +71,7 @@ This is a curated list of useful stuff based around Ractive.js.  I found that th
 - [Gitter Channel](https://gitter.im/ractivejs/ractive)
 
 
-##Codepen-Examples
+## Codepen-Examples
 
 - [Ractive two-way binding form example](http://codepen.io/bessington/pen/OPzLWE)
 - [Ractive progress bar example](http://codepen.io/bessington/pen/azEwpL)
@@ -83,7 +84,7 @@ This is a curated list of useful stuff based around Ractive.js.  I found that th
 
 ## Ractive-Boilerplates
 
-- Please Contribute any setups, for example Ractive in Electron
+- [ScadaJS](https://github.com/aktos-io/scada.js) - Industrial distributed SCADA and MRP library for web, desktop and mobile
 
 
 ## Podcasts
@@ -102,7 +103,7 @@ Made with Ractive.
 
 ### Open Source
 
-- Please Contribute
+- [Omron Tester](https://github.com/aktos-io/omron-tester) - An example webapp for ScadaJS to test Omron Hostlink protocol which toggles a physical output of a Omron PLC and reads a memory area from the device.
 
 ### Closed Source
 
@@ -119,7 +120,9 @@ Made with Ractive.
 
 ### Using Ractive
 
-- Please Contribute
+Companies using Ractive:
+
+- [Aktos Electronics Automation](https://aktos.io) - An open source telemetry and automation company in Turkey, uses Ractive for its paid online SCADA service.
 
 
 ## License
